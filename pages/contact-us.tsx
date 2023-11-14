@@ -43,13 +43,13 @@ const contact = () => {
           <hr className="mt-3" />
 
           <li className="mt-3 font-bold">WhatsApp chat support:</li>
-          <li className="mt-3">+31 20 327435</li>
+          <li className="mt-3">+31 20 3086750</li>
 
           <hr className="mt-3" />
 
           <li className="mt-3 font-bold">Acquisition & other</li>
           <li className="mt-3">info@compsys.io</li>
-          <li className="mt-3">+31 20 6596510</li>
+          <li className="mt-3">+31 20 3086750</li>
           <p>Mo- Fri - 8:30 - 21:00</p>
           <p>Sa- Su - 9:00 - 17:00</p>
         </ul>

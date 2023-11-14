@@ -8,7 +8,7 @@ import Link from "next/link";
 const Navigation = () => {
   return (
     <>
-      <div className="mt-14  mb-14 max-w-4xl mx-auto justify-center grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="mt-14  mb-14 max-w-4xl xl:mx-auto justify-center grid grid-cols-1 md:grid-cols-3 gap-8 mx-2">
         <div className="group mx-auto">
           <Link href="/solutions">
             <Image

@@ -48,7 +48,7 @@ const Footer = () => {
                   clip-rule="evenodd"
                 />
               </svg>
-              +31 20 6596510
+              +31 20 3086750
             </li>
             <li className="flex items-center gap-2 ml-8 hover:underline hover:underline-offset-8">
               <svg

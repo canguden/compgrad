@@ -16,7 +16,7 @@ const Hero = () => {
           className="select-none"
         />
       </div>
-      <div className=" absolute bottom-[250px] sm:top-[425px] md:top-[325px] lg:top[300px] xl:top-[420px] left-1/2 -translate-x-1/2 -translate-y-1/2 text-start  sm:px-4  w-full xl:max-w-6xl">
+      <div className=" absolute bottom-[150px] sm:top-[425px] md:top-[325px] lg:top[300px] xl:top-[420px] left-1/2 -translate-x-1/2 -translate-y-1/2 text-start  sm:px-4  w-full xl:max-w-6xl">
         <div className="max-w-4xl  mx-auto px-4 py-4 sm:p-10 bg-blue-800">
           <h1 className="select-none text-3xl text-white   sm:text-4xl md:text-5xl lg:text-5xl xl:text-5xl">
             CompSys Solutions
